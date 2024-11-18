@@ -2,6 +2,7 @@
 This is a repository created for the Game Programming course at Bakırçay University.
 
 ## -TR-
+# 3D Eşleştirme Oyunu - Bakırçay 2024 Güz Oyun Geliştirme Projesi
 ## 🎯 Proje Özeti
 Bu proje, **Bakırçay Üniversitesi 2024 Güz Dönemi Oyun Programlama Dersi** kapsamında verilen bir ödevin parçasıdır. Amaç, Unity kullanarak temel bir 3D eşleştirme oyunu geliştirmektir. 
 
