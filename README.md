@@ -1,9 +1,9 @@
 # beida-ce-bakircay-2024-gd-210601025
 This is a repository created for the Game Programming course at Bakırçay University.
 
--TR-
+## -TR-
 ## 🎯 Proje Özeti
-Bu proje, **Bakırçay Üniversitesi 2024 Güz Dönemi Oyun Geliştirme Dersi** kapsamında verilen bir ödevin parçasıdır. Amaç, Unity kullanarak temel bir 3D eşleştirme oyunu geliştirmektir. 
+Bu proje, **Bakırçay Üniversitesi 2024 Güz Dönemi Oyun Programlama Dersi** kapsamında verilen bir ödevin parçasıdır. Amaç, Unity kullanarak temel bir 3D eşleştirme oyunu geliştirmektir. 
 
 ### Hedefler:
 - **Ara Sınav Hedefi:** Temel oyun kurulumunu yapmak, nesne hareketi ve yerleştirme işlevlerini geliştirmek.
@@ -40,8 +40,8 @@ Aşağıda, oyunun temel oynanış mekaniklerini gösteren bir ekran görüntüs
 
 
 
--ENG-
-# 3D Matching Game - Bakırçay Fall-2024 Game Development Project
+## -ENG-
+# 3D Matching Game - Bakırçay Fall-2024 Game Programming Project
 
 ## 🎯 Project Overview
 This project is part of the **Bakırçay University Fall 2024 Game Development Course** assignment. The aim is to develop a basic 3D matching game using Unity.
