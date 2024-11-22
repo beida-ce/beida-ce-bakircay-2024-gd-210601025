@@ -1,4 +1,4 @@
-# Bakırçay Fall-2024 Game Development - 3D Eşleştirme Oyunu
+  # Bakırçay Fall-2024 Oyun Programlama - 3D Eşleştirme Oyunu
 ## Proje Özeti
 Bu proje, Bakırçay Güz Dönemi-2024 Oyun Programlama dersinin bir parçası olarak Unity ile geliştirilen basit bir 3D eşleştirme oyunudur. Proje iki aşamadan oluşmaktadır: Midterm ve Final.
 ### Orta Dönem (Tamamlananlar):
