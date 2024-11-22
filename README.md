@@ -6,8 +6,8 @@ Bu proje, Bakırçay Fall-2024 Game Development dersinin bir parçası olarak Un
 
 ### Orta Dönem (Tamamlananlar):
 - **Oyun Alanı**: 3D nesnelerin rastgele yerleştirildiği bir oyun alanı oluşturuldu.
-- **Nesne Etkileşimi**: Oyuncuların nesneleri alıp sürükleyerek yerleştirmesini sağladık.
-- **Platform**: Nesneler hareket edebiliyor.
+- **Nesne Etkileşimi**: Nesneler mouse ile tutulup sürüklenebiliyor.
+- **Platform**: Nesneler bu alan ile etkileşime girecek şekilde ayarlanacak.
 
 ### Final (Beklenenler):
 - Eşleştirme mantığı, eşli nesneler ve skor takibi eklenerek oyun tamamlanacak.
