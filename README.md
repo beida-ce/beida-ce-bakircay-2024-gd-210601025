@@ -18,12 +18,6 @@ Bu proje, Bakırçay Fall-2024 Game Development dersinin bir parçası olarak Un
 ### Oynanış Videosunu İzleyin
 -https://youtu.be/jbkhw3_229U?feature=shared
 
-## Midterm Fazında Tamamlananlar
-
-- **Nesnelerin Yerleştirilmesi**: Oyun alanına rastgele 3D nesneler yerleştirildi.
-- **Sürükle ve Bırak**: Oyuncular nesneleri sürükleyebiliyor ve bırakabiliyor.
-- **Temel UI**: Kullanıcı arayüzü öğeleri yerleştirildi.
-
 ## Kullanılan Teknolojiler
 
 - **Unity Sürümü**: 2022.3.50
