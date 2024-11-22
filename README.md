@@ -18,18 +18,12 @@ Bu proje, Bakırçay Fall-2024 Game Development dersinin bir parçası olarak Un
 
 [Oynanış Videosunu İzleyin](gameplay_video_link)
 
-## Özellikler
 
-- **Oyun Alanı**: 3D nesneler rastgele yerleştirilmiş bir alan.
-- **Yerleştirme Alanı**: Oyuncuların nesneleri yerleştirebileceği dairesel alan.
-- **Nesne Etkileşimi**: Oyuncular nesneleri sürükleyip yerleştirebiliyor.
-- **Hareketli Platform**: Nesneler oyun alanında hareket edebiliyor.
-
-## Orta Dönem Tamamlanma
+## Midterm Fazında Tamamlananlar
 
 - **Nesnelerin Yerleştirilmesi**: Oyun alanına rastgele 3D nesneler yerleştirildi.
-- **Sürükle ve Bırak**: Oyuncular nesneleri sürükleyip yerleştirme alanına yerleştirebiliyor.
-- **Temel UI**: Kullanıcı arayüzü öğeleri yerleştirildi ve oyun mekanikleri test edildi.
+- **Sürükle ve Bırak**: Oyuncular nesneleri sürükleyebiliyor ve bırakabiliyor.
+- **Temel UI**: Kullanıcı arayüzü öğeleri yerleştirildi.
 
 ## Kullanılan Teknolojiler
 
