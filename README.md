@@ -24,14 +24,6 @@ Bu proje, Bakırçay Fall-2024 Game Development dersinin bir parçası olarak Un
 - **Programlama Dili**: C#
 - **Assets**: Proje için verilen modeller, animasyonlar ve UI öğeleri kullanıldı.
 
-## Kurulum
-
-Projeyi yerel olarak çalıştırmak için:
-
-1. Bu repository'yi klonlayın.
-2. Unity'yi açın ve projeyi yükleyin (Unity sürümü 2022.3.50 veya üstü olmalıdır).
-3. Sahneyi oynatarak oyun mekaniklerini test edin.
-
 ## İletişim
 
 Herhangi bir sorunuz olursa, beydakilicoglu@gmail.com adresinden bana ulaşabilirsiniz.
