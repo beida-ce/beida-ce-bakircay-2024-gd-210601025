@@ -16,7 +16,7 @@ Bu proje, Bakırçay Fall-2024 Game Development dersinin bir parçası olarak Un
 ### Oyun Görüntüsü
 ![ss](https://github.com/user-attachments/assets/4c584f92-46b0-4c0a-a7ec-3edd4f0783f2)
 ### Oynanış Videosunu İzleyin
--https://youtu.be/jbkhw3_229U?feature=shared
+https://youtu.be/jbkhw3_229U?feature=shared
 
 ## Kullanılan Teknolojiler
 
