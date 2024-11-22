@@ -47,4 +47,4 @@ Projeyi yerel olarak çalıştırmak için:
 
 ## İletişim
 
-Herhangi bir sorunuz olursa, [email@example.com] adresinden bana ulaşabilirsiniz.
+Herhangi bir sorunuz olursa, beydakilicoglu@gmail.com adresinden bana ulaşabilirsiniz.
